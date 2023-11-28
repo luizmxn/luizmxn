@@ -36,12 +36,9 @@
  💻 &emsp; Computer Science Student at IBMR <br/><br/>
  ⚔️ &emsp; Studying Web Development<br/><br/>
  📧 &emsp; Reach me anytime: luiz15052002@hotmail.com<br/><br/>
- 
 
 </p>
 
-<br/>
-<br/>
 <br/>
 
  ## Technologies I'm studying
